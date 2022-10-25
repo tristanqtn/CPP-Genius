@@ -1,7 +1,7 @@
 # tristan_querton_ee_402_assignment_1
 
 
-============================================================================================
+=================================================================
 
 
 Author : Tristan QUERTON
@@ -13,7 +13,7 @@ Course : EM402 - OOP C++
 Date : 25/10/2022
 
 
-============================================================================================
+=================================================================
 
 
 For the assignment we are asked to conceptualise and code a system to apply the object-oriented
@@ -23,7 +23,7 @@ of inheritance. Our library will also have a list of members. With the help of t
 able to implement the 20 requested notions.
 
 
-============================================================================================
+=================================================================
 
 
 In the main function to test all implemented notions you just have to undo the comments.
