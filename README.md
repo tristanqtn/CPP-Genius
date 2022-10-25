@@ -26,4 +26,4 @@ able to implement the 20 requested notions.
 =================================================================
 
 
-In the main function to test all implemented notions you just have to undo the comments.
+In the main function to test all implemented notions you just have to undo the comments. Each task is tagged by a comment with the number of the task.
