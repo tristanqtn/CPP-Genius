@@ -8,10 +8,6 @@ This repository houses C++ data structure helpers and implementation examples cr
 
 - Tristan QUERTON
 
-## Date
-
-- 25/10/2022
-
 ## Assignment Details
 
 For this assignment, the goal is to conceptualize and code a system applying object-oriented programming concepts. The chosen implementation involves a document management system within a library. The library comprises different document types linked through inheritance and maintains a list of members. The implemented model allows the realization of the 20 requested notions.
