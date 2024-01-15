@@ -1,29 +1,23 @@
-# tristan_querton_ee_402_assignment_1
+# C++ Genius
 
+## Overview
 
-=================================================================
+This repository houses C++ data structure helpers and implementation examples created by Tristan QUERTON for the EM402 - OOP C++ course assignment. The focus is on applying object-oriented programming concepts, and the implemented system is a document management system within a library. The library includes various document types connected through inheritance and maintains a list of members.
 
+## Author
 
-Author : Tristan QUERTON
+- Tristan QUERTON
 
-All rigths reserved - no copy allowed
+## Date
 
-Course : EM402 - OOP C++
+- 25/10/2022
 
-Date : 25/10/2022
+## Assignment Details
 
+For this assignment, the goal is to conceptualize and code a system applying object-oriented programming concepts. The chosen implementation involves a document management system within a library. The library comprises different document types linked through inheritance and maintains a list of members. The implemented model allows the realization of the 20 requested notions.
 
-=================================================================
+## Testing
 
+To test all implemented notions, uncomment the relevant sections in the main function. Each task is marked by a comment with the corresponding task number.
 
-For the assignment we are asked to conceptualise and code a system to apply the object-oriented
-programming concepts learned in class. For this purpose we choose to implement a document man-
-agement system in a library. Our library will include several types of documents linked by notions
-of inheritance. Our library will also have a list of members. With the help of this model, we will be
-able to implement the 20 requested notions.
-
-
-=================================================================
-
-
-In the main function to test all implemented notions you just have to undo the comments. Each task is tagged by a comment with the number of the task.
+Explore the world of C++ data structures with this repo! 🚀
